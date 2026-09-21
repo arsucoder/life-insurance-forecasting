@@ -7,5 +7,5 @@ scikit-learn
 statsmodels
 prophet
 plotly
-google-genai
+huggingface_hub
 duckdb
